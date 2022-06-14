@@ -1,0 +1,20 @@
+Control Panel 
+ 
+Control panel user name
+ gofre_2291627 
+Control panel password 25521772 
+Control panel URL http://cpanel.gofreeserve.com 
+Files and FTP Settings 
+FTP user name gofre_2291627 
+FTP password 25521772 
+FTP host name ftp.gofreeserve.com  
+File system path /home/vol5/gofreeserve.com/gofre_2291627/htdocs 
+MySQL Settings 
+MySQL user gofre_2291627 
+MySQL password 25521772 
+MySQL host sql206.gofreeserve.com 
+MySQL port 3306 
+Domain name 
+Your domain name http://love88.gofreeserve.com
+or
+http://www.love88.gofreeserve.com 
